@@ -1,3 +1,3 @@
-module siaminator/list
+module siaminator/linked-list
 
 go 1.15
